@@ -7,5 +7,6 @@ fun main(args: Array<String>) {
   var str: String = "Hello World"
 
   // 文字列テンプレートを用いたコンソール出力
-  println("${str} Kotlin!!")
+  println("${str} Kotlin!!" )
+  println("$str Kotlin!!")  // シンプルな変数のアクセスなら、ブロック無しでも使える
 }
