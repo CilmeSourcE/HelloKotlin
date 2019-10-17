@@ -8,7 +8,7 @@ fun main(args: Array<String>) {
 
   var bi: Byte = 10
   var short: Short = 100
-  var int: Int = 1000;
+  var int: Int = 1000
   var long: Long = 10000
 
   // Floatは明示的にF入れないとコンパイルエラーになる
