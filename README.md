@@ -1,2 +1,2 @@
 # HelloKotlin
-Kotlinを書いてみる
+EclipseでKotlinを書いてみてます。※続きはIntelliJ IDEAで書くことにしました...
